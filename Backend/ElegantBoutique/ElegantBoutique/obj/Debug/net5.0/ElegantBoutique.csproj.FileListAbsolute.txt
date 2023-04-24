@@ -1,0 +1,222 @@
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.json
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.exe
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.deps.json
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.json
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.dev.json
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ref\ElegantBoutique.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.AssemblyReference.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfoInputs.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfo.cs
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CoreCompileInputs.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\staticwebassets\ElegantBoutique.StaticWebAssets.Manifest.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\staticwebassets\ElegantBoutique.StaticWebAssets.xml
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\scopedcss\bundle\ElegantBoutique.styles.css
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.RazorTargetAssemblyInfo.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CopyComplete
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ref\ElegantBoutique.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.genruntimeconfig.cache
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Enrichers.ClientInfo.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\sanda\Desktop\virtusa\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.json
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.exe
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.deps.json
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.json
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.dev.json
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ref\ElegantBoutique.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Enrichers.ClientInfo.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.AssemblyReference.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfoInputs.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfo.cs
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CoreCompileInputs.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\staticwebassets\ElegantBoutique.StaticWebAssets.Manifest.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\staticwebassets\ElegantBoutique.StaticWebAssets.xml
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\scopedcss\bundle\ElegantBoutique.styles.css
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.RazorTargetAssemblyInfo.cache
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CopyComplete
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ref\ElegantBoutique.dll
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\sanda\Documents\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.genruntimeconfig.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\appsettings.json
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.StaticWebAssets.xml
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.exe
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.deps.json
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.json
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.runtimeconfig.dev.json
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Humanizer.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Enrichers.ClientInfo.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.AssemblyReference.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfoInputs.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.AssemblyInfo.cs
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CoreCompileInputs.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\scopedcss\bundle\ElegantBoutique.styles.css
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\staticwebassets\ElegantBoutique.StaticWebAssets.Manifest.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.RazorTargetAssemblyInfo.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.csproj.CopyComplete
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\refint\ElegantBoutique.dll
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.pdb
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ElegantBoutique.genruntimeconfig.cache
+C:\Users\SANDAKA\Desktop\sachee aiya\ElegantBoutique\Backend\ElegantBoutique\ElegantBoutique\obj\Debug\net5.0\ref\ElegantBoutique.dll

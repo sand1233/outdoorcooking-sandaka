@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SANDAKA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SANDAKA\\.nuget\\packages"
+    ]
+  }
+}
